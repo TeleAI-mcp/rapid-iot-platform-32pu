@@ -1,2 +1,3 @@
-# rapid-iot-platform-32pu
-Automated issue comment bot repository
+# Rapid Iot Platform 32Pu
+
+Automated issue comment bot repository.
